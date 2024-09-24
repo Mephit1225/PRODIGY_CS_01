@@ -4,11 +4,6 @@ This is a simple Python program that implements the Caesar Cipher algorithm. The
 # Features
 Encryption: Shift text by a specified number of positions to encode a message.
 Decryption: Reverse the shift to decode the message back to its original form.
-# Installation
- 1. Clone the repository:
-git clone https://github.com/Moo002/PRODIGY_T1234_Task1.git
- 2. Navigate to the project directory:
-cd CaesarCipherProject
 # Usage
 Run the Python script:
 python caesar_cipher.py
